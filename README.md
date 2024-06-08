@@ -1,1 +1,1 @@
-# soc_summer_visual_tales
+# SOC Summer Visual Tales
